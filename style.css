@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: green;
+    background-image: linear-gradient(68deg, green 30%, limegreen 85%);
+}
+
+h1 {
+    color: white;
+    font-family: 'Righteous';
+}
+
+p {
+    color: white;
+}
+
+.cabecario {
+    display: inline;
+    margin-left: 70px;
+    font-size: 17px;
+    position: relative;
+    left: 500px;
+}
+
+.texto {
+    text-align: center;
+}
+
+.centro {
+    margin-left: 400px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+.saiba {
+    font-size: 20px;
+}
+
+.botao {
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 100px;
+    padding 0;
+    font-family: 'Righteous';
+    margin-left: 250px;
+}
+
+.botao2 {
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 15px;
+    padding 0;
+}
+
+.sim {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    bottom: 200px;
+    left: 1000px;
+}
+
+.miuda {
+    text-align: center;
+    font-size: 12px;
+}
